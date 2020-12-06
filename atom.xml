@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangpengshuai123.github.io</id>
-    <title>张朋帅的个人博客</title>
-    <updated>2020-12-06T14:52:22.081Z</updated>
+    <title>旧城以西咖啡馆</title>
+    <updated>2020-12-06T14:53:52.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangpengshuai123.github.io"/>
     <link rel="self" href="https://zhangpengshuai123.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://zhangpengshuai123.github.io/images/avatar.png</logo>
     <icon>https://zhangpengshuai123.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 张朋帅的个人博客</rights>
+    <rights>All rights reserved 2020, 旧城以西咖啡馆</rights>
     <entry>
         <title type="html"><![CDATA[博客搭建]]></title>
         <id>https://zhangpengshuai123.github.io/post/bo-ke-da-jian/</id>
