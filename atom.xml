@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangpengshuai123.github.io</id>
     <title>旧城以西咖啡馆</title>
-    <updated>2020-12-06T14:53:52.264Z</updated>
+    <updated>2020-12-06T14:55:42.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangpengshuai123.github.io"/>
     <link rel="self" href="https://zhangpengshuai123.github.io/atom.xml"/>
@@ -10,16 +10,6 @@
     <logo>https://zhangpengshuai123.github.io/images/avatar.png</logo>
     <icon>https://zhangpengshuai123.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 旧城以西咖啡馆</rights>
-    <entry>
-        <title type="html"><![CDATA[博客搭建]]></title>
-        <id>https://zhangpengshuai123.github.io/post/bo-ke-da-jian/</id>
-        <link href="https://zhangpengshuai123.github.io/post/bo-ke-da-jian/">
-        </link>
-        <updated>2020-12-06T07:39:29.000Z</updated>
-        <content type="html"><![CDATA[<p>在markdown中插入图片：</p>
-<p>插入失败，PicGo中使用GitHub图床上传图片总是失败。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhangpengshuai123.github.io/post/hello-gridea/</id>
